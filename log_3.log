@@ -1,0 +1,4 @@
+2024-01-10 21:18:37 - hello_world - Arguments:  - Result: Hello World
+2024-01-10 21:18:37 - summator - Arguments: 2, 2 - Result: 4
+2024-01-10 21:18:37 - div - Arguments: 6, 2 - Result: 3.0
+2024-01-10 21:18:37 - summator - Arguments: 4.3, b = 2.2 - Result: 6.5
